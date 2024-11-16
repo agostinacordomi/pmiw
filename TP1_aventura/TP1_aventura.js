@@ -1,4 +1,5 @@
-      let elementos = [
+//https://www.youtube.com/watch?v=bupF3jrg4Fg
+     let elementos = [
       { ruta: 'data/img1.jpg', texto: '  \n (Presiona la tecla espaciadora para avanzar)', imagen: null },
       { ruta: 'data/img2.jpg', texto: 'Un día como cualquier otro, Coraje estaba \n tomando su siesta matutina cuando de repente...', imagen: null },
       { ruta: 'data/img3.jpg', texto: '  \n Aparece una figura blanca con una máscara tenebrosa', imagen: null },
